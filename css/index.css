@@ -1,0 +1,8 @@
+header {
+    background-color: brown;
+}
+img {
+    width:50% ;
+    height:100 vh;
+    object-fit: cover;
+}
